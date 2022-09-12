@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">GitHubApps V3</string>
+    <string name="search_hint">Search GitHub user..</string>
+    <string name="user_not_found">User not found.</string>
+    <string name="change_language">Change language</string>
+    <string name="details_title">User Details</string>
+    <string name="followers_title" translatable="false">Followers</string>
+    <string name="following_title" translatable="false">Following</string>
+    <string name="repositories_count" translatable="false">%d repository</string>
+    <string name="following_count" translatable="false">%d following</string>
+    <string name="followers_count" translatable="false">%d followers</string>
+    <string name="followers_not_found">Nobody follows this user yet.</string>
+    <string name="following_not_found">This user follows nobody.</string>
+    <string name="menu_title_settings">Settings</string>
+    <string name="the_app_will_be_displayed_in_your_locale_language">The app will be displayed in your locale language.</string>
+    <string name="change_dark_mode">Dark Mode</string>
+    <string name="turn_onoff_darkmode">Turn ON/OFF Dark Mode</string>
+    <string name="favorite_not_found">There is no user in here. Favorite more.</string>
+    <string name="menu_title_favorite">Favorite User</string>
+    <string name="favorite_desc" translatable="false">To input the favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

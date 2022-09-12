@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub User V2</string>
+    <string name="search_hint">Cari Pengguna GitHub..</string>
+    <string name="user_not_found">Pengguna Tidak Ditemukan.</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="details_title">Detail Pengguna</string>
+    <string name="followers_not_found">Belum ada yang mengikuti pengguna ini.</string>
+    <string name="following_not_found">Pengguna ini tidak mengikuti siapapun.</string>
+    <string name="menu_title_settings">Pengaturan</string>
+    <string name="the_app_will_be_displayed_in_your_locale_language">Aplikasi akan ditampilkan dalam bahasa lokal.</string>
+</resources>
